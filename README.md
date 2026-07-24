@@ -128,10 +128,10 @@ LIMIT 5;
 ## Dashboard
 
 **KPI overview & top/bottom sellers**
-![Top and bottom sellers]()
+![Top and bottom sellers](Top and bottom sellers.png)
 
 **Trends & category/size breakdown**
-![Trends and category breakdown]()
+![Trends and category breakdown](Trends and category breakdown.png)
 
 
 ## Key Insights
