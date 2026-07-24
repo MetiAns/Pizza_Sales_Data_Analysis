@@ -128,11 +128,13 @@ LIMIT 5;
 
 ## Dashboard
 
+**Trends & category/size breakdown**
+![Trends and category breakdown](dashboard-trends-category.png)
+
 **KPI overview & top/bottom sellers**
 ![Top and bottom sellers](dashboard-top-bottom-sellers.png)
 
-**Trends & category/size breakdown**
-![Trends and category breakdown](dashboard-trends-category.png)
+
 
 
 
